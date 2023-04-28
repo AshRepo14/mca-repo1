@@ -1,4 +1,6 @@
 # mca-repo1
 repositary for mca garbage codes
 
-nilesh age ka dekh lena
+all files are named after the table name
+
+tojson.py is conversion tool

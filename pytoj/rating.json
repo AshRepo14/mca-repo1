@@ -1,0 +1,20 @@
+[
+    {
+        "RATING_ID": 1,
+        "USER_ID": 14,
+        "ART_ID": 13,
+        "RATING_VALUE": 5
+    },
+    {
+        "RATING_ID": 2,
+        "USER_ID": 15,
+        "ART_ID": 6,
+        "RATING_VALUE": 4
+    },
+    {
+        "RATING_ID": 3,
+        "USER_ID": 15,
+        "ART_ID": 8,
+        "RATING_VALUE": 3
+    }
+]
